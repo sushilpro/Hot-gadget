@@ -1,0 +1,68 @@
+.orange-bg{
+    background-color: lightgreen;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+h2{
+    margin-top: 66px;
+    text-align: center;
+}
+.buy-button{
+    background-color: lightpink;
+    border: 5px solid lightpink;
+    border-radius: 7px;
+    text-align: center;
+}
+.container-smartphone{
+    margin: 50px;
+}
+.tuli{
+    text-align: justify;
+    color: lime;
+    margin-left: 65px;
+    margin-right: 55px;
+}
+.tuli-codi{
+    text-align: justify;
+    color: purple;
+    margin-left: 65px;
+    margin-right: 55px;
+}
+.tulifuck img{
+    width: 200px;
+
+}
+.tulifuck{
+    margin-left: 10px;
+}
+.card-body1{
+    color: mediumorchid;
+}
+.card{
+    border: none;
+    margin: 50px;
+    box-shadow: 5px 10px 20px;
+}
+.tuli-codi{
+    border: 2px solid magenta;
+    border-radius: 5px ;
+    margin-top: 50px;
+    box-shadow: 5px 10px 25px ;
+}
+.order img{
+    width: 100%;
+}
+.cate-go{
+    margin: 25px 0;
+}
+.foot{
+    text-align: center;
+    margin-top: 55px;
+    text-align: center;
+}
+.hh{
+
+    text-align: center;
+    
+}
